@@ -1,0 +1,2 @@
+# SolastaCommunityExpansionDocumentation
+Documentation for Solasta Community Expansion Mod
